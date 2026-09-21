@@ -1,43 +1,16 @@
-# Pursuing Stacks — Japanese edition
+# 撤回告知：v1.0.0 は翻訳未完です
 
-This repository is the public source home for the direct Japanese main-text
-edition of Alexander Grothendieck's *Pursuing Stacks, First Episode: The
-Modelizing Story*.
+> **v1.0.0 を完全な日本語訳として使用・引用しないでください。**
 
-The edition covers all 141 main-text units: sections 1–140, including the
-inserted section 16bis. The source preface and all 18 appendices are retained
-in English and are identified as such in the edition-scope notice.
+このリポジトリは従来、v1.0.0 を完全な日本語版として誤って表示していました。実際に翻訳されているのは番号付き本文単位だけであり、二つの序文、付録「Larry Breen への三通の手紙」とその 18 の小区分、付録中の注記・編集文、さらに複数の章見出しが英語またはフランス語のままです。したがって本版は完全な翻訳の基本要件を満たさず、翻訳版としての利用から撤回します。
 
-## Read and download
+元ファイルと `v1.0.0` のリリース資産は、監査証跡と DOI の継続性を保つため公開したままにします。完全な改訂版はこのリポジトリと既存の Zenodo 概念 DOI を引き継ぎます。全原文の翻訳被覆検査に合格するまでは「完全版」と表示しません。
 
-- [Zenodo record and DOI](https://doi.org/10.5281/zenodo.22870235)
-- [GitHub release](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja/releases/tag/v1.0.0)
+## 関連記録
 
-The release inventory is intentionally ordered:
+- [本版の Zenodo 記録](https://doi.org/10.5281/zenodo.22870235)
+- [簡体字中国語版（v1.0.0 撤回済み）](https://doi.org/10.5281/zenodo.22870233)
+- [韓国語版（v1.0.0 撤回済み）](https://doi.org/10.5281/zenodo.22870237)
+- [英語原典 arXiv:2111.01000v2](https://arxiv.org/abs/2111.01000)
 
-1. `01_pursuing-stacks.ja.pdf` — cumulative reader PDF.
-2. `02_pursuing-stacks.ja.cumulative.tex` — directly downloadable, complete
-   cumulative LaTeX.
-3. `03_pursuing-stacks.ja.source.zip` — complete editable source, including
-   fonts, figures, bibliography, build instructions, and build script.
-
-Exact SHA-256 checksums are recorded in `SHA256SUMS`.
-
-## Companion editions
-
-- Simplified Chinese: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn) · [Zenodo](https://doi.org/10.5281/zenodo.22870233)
-- Korean: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr) · [Zenodo](https://doi.org/10.5281/zenodo.22870237)
-
-## Authority and editorial boundary
-
-The immutable source authority is arXiv:2111.01000v2. The translation preserves
-mathematical notation, labels, references, notes, page markers, and claim
-status. Suspected source issues are recorded rather than silently emended.
-This is not an official Stacks Project edition and makes no claim of approval
-by the Stacks Project.
-
-The PDF, direct cumulative LaTeX, and source archive passed deterministic
-rebuild, exact 423-binding projection, font/extraction, complete-page render,
-representative visual, and source-archive checks.
-
-Released under CC0 1.0 Universal, without warranty.
+ライセンス：CC0 1.0 Universal。無保証。
