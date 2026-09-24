@@ -45,6 +45,6 @@ v1.0.0には未訳の序文、付録、標題・ナビゲーションその他�
 恒久リンク： [Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870234) ·
 [原典](https://arxiv.org/abs/2111.01000) ·
 [简体中文版](https://doi.org/10.5281/zenodo.22870232) ·
-[한국어판（改訂中）](https://doi.org/10.5281/zenodo.22870236)
+[韓国語完全訳](https://doi.org/10.5281/zenodo.22870236)
 
 ライセンス：CC0 1.0 Universal。無保証。
