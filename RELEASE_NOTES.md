@@ -58,6 +58,6 @@ OpenAI Codex — GPT-5.6 Sol（Ultra 推論強度）によって行われた。
 恒久リンク： [Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870234) ·
 [原典](https://arxiv.org/abs/2111.01000) ·
 [簡体字中国語版](https://doi.org/10.5281/zenodo.22870232) ·
-[韓国語版（修復作業中）](https://doi.org/10.5281/zenodo.22870236)
+[韓国語版](https://doi.org/10.5281/zenodo.22870236)
 
 ライセンス：CC0 1.0 Universal。無保証。

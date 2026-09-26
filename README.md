@@ -73,6 +73,6 @@ OpenAI Codex — GPT-5.6 Sol（Ultra 推論強度）によって行われた。
 ## 他言語版
 
 - [簡体字中国語版](https://doi.org/10.5281/zenodo.22870232) · [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn)
-- [韓国語版（修復作業中）](https://doi.org/10.5281/zenodo.22870236) · [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr)
+- [韓国語版](https://doi.org/10.5281/zenodo.22870236) · [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr)
 
 ライセンス：CC0 1.0 Universal。無保証。
