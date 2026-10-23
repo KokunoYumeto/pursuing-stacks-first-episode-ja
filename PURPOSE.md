@@ -1,10 +1,11 @@
-# Purpose and use
+# 目的と利用
 
-This is an independent, non-commercial, educational edition. It was made and paid for privately by its
-maintainer, so that people can read the works of Alexander Grothendieck and his collaborators in their own
-language. Nothing here is sold, and no revenue is collected. The aim is to turn this material into open teaching
-resources, including public lesson plans.
+本プロジェクトは、アレクサンドル・グロタンディーク
+『スタックを追い求めて：第一話——モデル化の物語』を日本語で直接読めるようにし、
+編集・再現可能な LaTeX ソースとともに提供する、独立・非商業・開放型の教育的
+日本語訳である。内容を販売せず、収益を受け取らない。
 
-The original works remain their authors' work, and the rights in them remain with their holders; this edition
-claims no ownership of the originals. The original texts are freely readable elsewhere, for example on Numdam and
-arXiv.
+本プロジェクトは Stacks Project の公式版ではなく、著者、原編者または関係機関の
+承認を表すものではない。原作はその著者の著作であり、書誌、固有名、永続的識別子は
+学術上の同一性に従って保持する。訳文および本プロジェクトの編集資料は、リポジトリの
+CC0 1.0 Universal ライセンス文書に従い、無保証で提供する。
